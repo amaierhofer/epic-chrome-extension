@@ -1,0 +1,15 @@
+{
+    "name": "Epic sample",
+    "version": "1.0",
+    "description": "Connects to epic network",
+    "icons": {
+        "128": "icon.png"
+    },
+    "background_page": "background.html",
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_title": "Epic sample",
+        "default_popup": "popup.html"
+    },
+    "permissions": []
+}
